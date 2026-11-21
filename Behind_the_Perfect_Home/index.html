@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#eee1d4">
+  <meta name="description" content="Behind the Perfect Home. A collaged home imagined from 24 Rednote posts, told through everyday objects and small stories.">
+  <title>Behind the Perfect Home · Interactive research</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+ <main id="experience" class="experience" aria-label="Behind the Perfect Home interactive website">
+  <div class="room-backdrop" aria-hidden="true"></div>
+  <section id="room-stage" class="room-stage" aria-label="Entrance — explore the house">
+   <div id="room-move" class="room-move">
+     <img id="room-art" class="room-art" src="assets/rooms/entrance.webp" alt="Collaged front door of a Chinese apartment" draggable="false">
+     <div id="object-layer" class="object-layer" aria-label="Interactive household objects"></div>
+     <nav id="path-layer" class="path-layer" aria-label="Move between rooms"></nav>
+   </div>
+   <div class="room-vignette" aria-hidden="true"></div>
+   <div id="entrance-note" class="entrance-note" hidden>
+    <span class="note-pin" aria-hidden="true"></span>
+    <div class="note-small-label">A LITTLE NOTE BY THE DOOR</div>
+    <p>Every object has a little story. This home is imagined from 24 different posts.</p>
+    <button type="button" id="read-note" class="quiet-link">Read the story of this house <span aria-hidden="true">↗</span></button>
+   </div>
+  </section>
+  <header class="hud">
+    <button id="brand" type="button" class="brand" aria-label="Return to the front door">
+      <span class="brand-mark" aria-hidden="true">⌂</span><span>BEHIND THE PERFECT HOME</span>
+    </button>
+    <span id="room-tag" class="room-tag">ENTRANCE <span>01 / 05</span></span>
+    <button id="open-research" class="research-link" type="button">24 POSTS <span aria-hidden="true">↗</span></button>
+  </header>
+  <div class="hud-bottom">
+    <p class="direction-hint" id="direction-hint">Follow an arrow, or find something that catches your eye.</p>
+    <span class="hud-index">A HOME OF MANY STORIES</span>
+  </div>
+ </main>
+
+ <section id="intro" class="intro" aria-labelledby="intro-title">
+   <div class="intro-picture" aria-hidden="true"></div><div class="intro-wash" aria-hidden="true"></div>
+   <div class="intro-content">
+     
+     <h1 id="intro-title">Behind the<br>Perfect Home<span class="intro-period">.</span></h1>
+     <div id="intro-copy" class="intro-copy"></div>
+     <button id="enter-house" type="button" class="enter-link">ENTER THE HOUSE <span class="link-arrow" aria-hidden="true">↗</span></button>
+     <small class="intro-foot">Five rooms · Twenty-four posts · Many ways to feel at home</small>
+   </div>
+ </section>
+
+ <section id="case-overlay" class="case-overlay" hidden role="dialog" aria-modal="true" aria-labelledby="case-title">
+   <div class="case-room-backdrop" id="case-room-backdrop" aria-hidden="true"></div>
+   <div class="case-shell">
+     <header class="case-head">
+       <div class="case-breadcrumb"><span id="case-location">BALCONY</span><span class="tiny-separator">/</span><span id="case-id-head">STORY 01</span><span class="case-head-sub">LITTLE STORIES, BIG FEELINGS</span></div>
+       <button id="case-close" class="overlay-close" type="button" aria-label="Close case and return to the room">×</button>
+     </header>
+     <div class="case-main">
+       <figure class="case-image-wrap">
+         <div class="case-tape" aria-hidden="true"></div>
+         <div class="floating-insight" id="floating-insight" aria-hidden="true">look closer <span>✳</span></div>
+         <img id="case-image" class="case-image" src="" alt="Illustrated domestic scene" draggable="false">
+         <figcaption><span id="case-visual-counter">01 / 03</span></figcaption>
+         <div class="scene-social" aria-label="Your reactions in this website; not Rednote metrics">
+          <button type="button" id="reaction-like" class="social-action" aria-pressed="false" title="Like this scene (on this website only)" aria-label="Like this illustrated scene"><span aria-hidden="true">♡</span><small>LIKE</small></button>
+          <button type="button" id="reaction-save" class="social-action" aria-pressed="false" title="Save your reflection (on this website only)" aria-label="Save this reflection"><span aria-hidden="true">♧</span><small>SAVE</small></button>
+          <button type="button" id="reaction-discuss" class="social-action" title="Comments" aria-label="Read comments from the original post"><span aria-hidden="true">
+  <svg viewBox="0 0 24 24">
+    <path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z"/>
+  </svg>
+</span>
+<small>COMMENTS</small></button>
+         </div>
+       </figure>
+       <div id="case-reading" class="case-reading" tabindex="-1" aria-live="polite"></div>
+     </div>
+     <div id="reading-scroll-cue" class="reading-scroll-cue" hidden aria-hidden="true">SCROLL TO READ MORE ↓</div>
+     <footer class="case-foot">
+       <button id="step-prev" class="step-button step-prev" type="button"><span aria-hidden="true">←</span><span>Back</span></button>
+       <div class="step-progress" id="step-progress" aria-label="Reading progress"></div>
+       <button id="step-next" class="step-button step-next" type="button"><span id="next-label">Read the post</span><span aria-hidden="true">→</span></button>
+     </footer>
+   </div>
+ </section>
+
+ <aside id="research-overlay" class="research-overlay" hidden role="dialog" aria-modal="true" aria-labelledby="research-title">
+  <div class="research-shade" id="research-shade"></div>
+  <div class="research-sheet">
+    <header class="research-header"><span>BEHIND THE SCENES</span><button id="close-research" type="button" aria-label="Close research notes">×</button></header>
+    <div class="research-body">
+      <span class="research-mini">ABOUT THIS LITTLE HOME</span>
+      <h2 id="research-title">A little home.<br>Many lives.</h2>
+      <div class="research-lead"><p>Think of this home as a collage. Its rooms bring together 24 public Rednote posts from different creators. They are separate stories, not one family living behind these doors.</p><p>You can follow the little objects to seven illustrated moments: funny, familiar, ordinary, or unexpectedly revealing. The research notes are here if you want to peek behind the pictures.</p></div>
+      <div class="research-numbers" aria-label="Research scope"><div><strong>24</strong><span>PUBLIC POSTS<br>DIFFERENT CREATORS</span></div><div><strong>07</strong><span>ILLUSTRATED<br>ENCOUNTERS</span></div><div><strong>05</strong><span>CONNECTED<br>SPACES</span></div></div>
+      <div class="research-divider"></div>
+      <div class="method-grid">
+        <div><h3>What was selected</h3><p>A non-random, retrospectively grouped collection of posts about cooking, cleaning, parenting, maintenance and shared household tasks. The seven encounters illustrated in this site are only part of that set.</p></div>
+        <div><h3>What was not recorded</h3><p>The original complete search and recommendation-path log was not retained. This website does not claim a systematic ranking or that Rednote’s algorithm caused a specific norm.</p></div>
+        <div><h3>How to read the material</h3><p>Creator captions, video text, comments and replies are labelled separately. English translations are marked. “My reading” is an interpretation, not a creator quotation.</p></div>
+        <div><h3>What the images do not prove</h3><p>Every scene is an editorial redrawing. A post may be edited or staged; it cannot determine a household’s long-term division of work, identity or unseen contributions.</p></div>
+      </div>
+      <div class="research-divider"></div>
+      <div class="research-patterns">
+        <span class="research-mini">A FEW THINGS TO NOTICE</span>
+        <h3>Look once. Look twice.</h3>
+        <div class="pattern-list"><article><b>01 / THE TASK</b><p>Cooking, shopping or washing can be made highly visible. Planning, noticing and following up are harder to photograph.</p></article><article><b>02 / THE ACCOUNT</b><p>A polished room is not the whole story. Creator captions and replies can reveal shared effort, external help or another routine.</p></article><article><b>03 / THE REACTION</b><p>Humour and comment threads can celebrate, question or minimise the same action. Different readings belong in the analysis.</p></article></div>
+        <p class="pattern-limit">These are qualitative readings across selected examples, not prevalence statistics or claims about all users.</p>
+      </div>
+      <div class="research-divider"></div>
+      <div class="platform-note">
+        <span class="research-mini">WHAT REDNOTE ADDS</span>
+        <h3>The post is not the whole account.</h3>
+        <p>In C011, a shopping video brings childcare and consumption into the same polished lifestyle story; documented readers ask about fashion items. In C001, a husband’s unusual laundry method produces conflicting comments. In C015, a creator reply reveals a daily robot-vacuum routine not visible in a tidy-room photograph.</p>
+        <p>These are observations about <em>this small set of posts and interactions</em>—not claims about every Rednote user or a measured recommendation algorithm.</p>
+      </div>
+      <div class="research-divider"></div>
+      <div class="archive-topline"><h3>Inside the 24-post set</h3><span>07 illustrated encounters · 17 archive entries</span></div>
+      <div id="archive-grid" class="archive-grid"></div>
+      <p class="archive-end">The seven illustrated cases represent different creators. Archive labels are anonymised topic notes, not direct quotations. Internal case identifiers are withheld from this public-facing view. No raw screenshots or identifying accounts are displayed here.</p>
+    </div>
+  </div>
+ </aside>
+ <div id="toast" class="toast" aria-live="polite" hidden></div>
+ <script src="assets/content.js"></script>
+ <script src="assets/app.js"></script>
+</body>
+</html>

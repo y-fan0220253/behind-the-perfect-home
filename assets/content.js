@@ -1,1 +1,684 @@
-window.BTPH_CONTENT = {"intro":{"title":"Behind the Perfect Home","paragraphs":["The homes we grow up in, the homes we leave, and the ones we make carry little traces of who looked after whom.","This small home in China is imagined from 24 Rednote posts. Behind its doors are shopping bags, a laundry line, a list beside the entrance—ordinary objects that can hold more than they show.","As a young woman from China, I keep coming back to the laundry line. It looks so ordinary, but I wonder who notices what still needs doing, and when a small favour quietly becomes someone’s job.","As you wander through these rooms, think of a home you know well. Which things would you carry into your own home, and which expectations would you leave behind?"]},"cases":{"C019":{"room":"living","art":"C019","object":"The shoe cabinet","title":"The list that remembers","description":"A maintenance tracker sits at the door. Some tasks have not happened yet.","question":"Who remembers when something needs doing?","lens":"The list documents remembering, scheduling and coordination. In a reply, the creator says that hiring someone online still leaves the work of organising it.","alternative":"The creator does not state their gender or who manages every household task. Lists may also be a chosen way to reduce stress.","first":"Air conditioner. Cooker hood. Another little job for later. Who keeps track of it all?","main":[{"id":"C019-E02","type":"Creator caption","zh":"家里东西多了，琐事也跟着多了很多。电器啥时候该修、空调啥时候该洗、油烟机啥时候该清洁...时间一长很容易忘","en":"As the number of things at home grows, so do the small tasks. It is easy to forget when appliances need repairing, air conditioners need cleaning or range hoods need maintenance.","treatment":"原文节选＋英文翻译"},{"id":"C019-E04","type":"Creator caption","zh":"把家里大大小小的东西列出来，定好检查或保养的时间，定时去维护","en":"List the things around the home, decide when they need checking or maintenance, and carry out the tasks regularly.","treatment":"原文＋英文翻译"}],"follow":[{"id":"C019-E13","type":"Creator reply","zh":"其实都是很小的事！但是就是特别琐碎。很多事情，其实都是网上叫人来做，但就是要自己去安排！","en":"They are all small tasks, but there are so many details. For many of them, I find someone online to do the work, but I still have to organise everything myself.","treatment":"作者回复节选；省略表情符号＋英文翻译"}],"comments":[{"id":"C019-E12","type":"Reader comment","zh":"太厉害了宝贝，完全做不到！","en":"That is amazing! I could never manage this!","treatment":"评论原文＋英文翻译"}],"comp":"C011","compText":"From organising maintenance to remembering what to buy","caveat":"Creator identity and long-term household division are not established.","id":"C019","images":["assets/scenes/c019_1.png"],"sourceType":"Creator-edited lifestyle post","unique":"A separate creator and household; this is not the same family as the other rooms.","tease":"A list by the door knows a surprising amount about a home.","friendlyReading":"The list remembers what the room cannot. Even booking someone else to do a job takes a person to notice and arrange it.","friendlyOther":"We don’t know who handles every task here. And for some people, a list is a small relief.","choices":["The tidy checklist","Who keeps it updated?","The jobs still waiting"],"sticker":"Psst… check the list ✳"},"C015":{"room":"living","art":"C015","object":"The coffee table","title":"A tidy room, many hands","description":"The room looks comfortably tidy. The caption tells us more about who participates.","question":"Who helps keep this home running?","lens":"The creator explicitly describes shared cleaning and one person washing dishes when another cooks. A father also helps his daughter with schoolwork.","alternative":"Photos of a tidy home cannot measure the total work done, and a robot vacuum does not eliminate every cleaning task.","first":"A cosy living room. Homework on the table. Everything seems to be in its place.","main":[{"id":"C015-E03","type":"Creator caption","zh":"爸爸👨🏻下班会和女儿👧🏻一起讨论题目","en":"After work, Dad discusses schoolwork with our daughter.","treatment":"原文＋英文翻译"},{"id":"C015-E05","type":"Creator caption","zh":"家里的干净整洁大家会一起维护，今天你做饭，我就主动刷碗","en":"The whole family helps keep the home clean and tidy. If you cook today, I will take the initiative to wash the dishes.","treatment":"原文＋英文翻译"}],"follow":[{"id":"C015-E12","type":"Creator reply","zh":"每天扫地机器人扫一次","en":"The robot vacuum cleans once every day.","treatment":"作者原文＋英文翻译"}],"comments":[{"id":"C015-E11","type":"Reader comment","zh":"养猫怎么还一层不染，不会很多猫毛吗？我家天天扫地吸尘都很多猫毛","en":"How do you keep your home so spotless with a cat? Don't you get lots of cat hair? I vacuum every day and still find plenty.","treatment":"原文节选＋英文翻译"},{"id":"C015-E12","type":"Creator reply","zh":"每天扫地机器人扫一次","en":"The robot vacuum cleans once every day.","treatment":"作者原文＋英文翻译"}],"comp":"C003","compText":"Another account of care and its demands","caveat":"A description of shared tasks is not proof of perfectly equal long-term responsibility.","id":"C015","images":["assets/scenes/c015_1.png"],"sourceType":"Creator-edited lifestyle post","unique":"A separate creator and household; this is not the same family as the other rooms.","tease":"There might be more than one pair of hands behind this scene.","friendlyReading":"This creator talks about sharing jobs: cooking, dishes, cleaning and helping with homework. Even a robot vacuum has a part to play.","friendlyOther":"One tidy photograph can’t tell us exactly how responsibility is shared across the week.","choices":["The beautiful room","The family teamwork","What happens off-camera"],"sticker":"Who did what? ✳"},"C011":{"room":"kitchen","art":"C011","object":"The grocery bags","title":"A shopping bag full of little things","description":"A mother shops for a family celebration; her video is framed as a happy, polished day.","question":"What was remembered before the shopping began?","lens":"The creator names her son’s preferences while choosing food. The post makes a moment of remembering visible, while most of the available discussion focuses on fashion and products.","alternative":"Remembering a child’s favourite food does not establish who plans every meal. The creator may genuinely enjoy this outing.","first":"Milk, snacks and a family gathering tonight. A small shopping trip, with a lot to remember.","main":[{"id":"C011-E17","type":"On-screen text","zh":"主要儿子爱喝","en":"Mainly because my son likes drinking it.","treatment":"视频原文节选＋英文翻译"},{"id":"C011-E18","type":"On-screen text","zh":"还给他买了几包他很爱吃的乳酪棒呢","en":"I also bought him a few packs of cheese snacks that he really likes.","treatment":"视频原文＋英文翻译"}],"follow":[{"id":"C011-E09","type":"On-screen text","zh":"因为晚上要家庭大聚餐","en":"Because we have a big family gathering tonight.","treatment":"原文＋英文翻译"}],"comments":[{"id":"C011-E14","type":"Reader comment","zh":"种草华伦西亚的可乐包了，好纠结颜色！！！","en":"I really want the Balenciaga Le Cagole bag, but I cannot decide which colour to choose!","treatment":"评论原文＋英文翻译"},{"id":"C011-E15","type":"Creator reply","zh":"白色白色🤍","en":"White, definitely white!","treatment":"作者原文＋英文翻译"}],"comp":"C021","compText":"Another creator takes charge of food, in a different way","caveat":"The footage does not establish who planned the wider gathering or how shopping is usually shared.","id":"C011","images":["assets/scenes/c011_1.png"],"sourceType":"Creator-edited lifestyle post","unique":"A separate creator and household; this is not the same family as the other rooms.","tease":"Some of the most important things in the bag are invisible.","friendlyReading":"She remembers what her son likes while she shops. Meanwhile, the comments drift towards a designer handbag. Both are parts of the same post.","friendlyOther":"Loving the outing doesn’t tell us who plans every meal or how shopping is shared.","choices":["The groceries","The little favourites","The polished outfit"],"sticker":"Look in the bag ✳"},"C021":{"room":"kitchen","art":"C021","object":"The cooking pan","title":"Tonight, he’s cooking","description":"A male creator calls himself a full-time househusband and presents a day of domestic work.","question":"What does taking responsibility look like here?","lens":"His video shows cooking and several other tasks. Importantly, the creator also describes ordering ingredients ahead of time and taking ownership of washing up.","alternative":"This is a creator’s edited, humorous self-presentation. It does not show every task done by everyone in the household.","first":"A pan on the stove and a househusband in charge. What else is on his to-do list?","main":[{"id":"C021-E03","type":"On-screen text","zh":"欢迎收看全职家庭煮夫","en":"Welcome to the life of a full-time househusband.","treatment":"原文＋英文翻译"},{"id":"C021-E11","type":"On-screen text","zh":"OK提前点了食材到家","en":"Okay, the ingredients I ordered in advance have arrived.","treatment":"原文＋英文翻译"}],"follow":[{"id":"C021-E15","type":"On-screen text","zh":"以后刷碗啊都是我的事","en":"From now on, washing the dishes is my responsibility.","treatment":"原文＋英文翻译"}],"comments":[],"comp":"C011","compText":"Another way food and care enter everyday lifestyle content","caveat":"Employment arrangements and a complete division of labour cannot be established.","id":"C021","images":["assets/scenes/c021_1.png"],"sourceType":"Creator-edited lifestyle post","unique":"A separate creator and household; this is not the same family as the other rooms.","tease":"Dinner begins long before the pan gets hot.","friendlyReading":"He doesn’t just cook. He says he ordered the ingredients beforehand and takes responsibility for washing up, too.","friendlyOther":"It’s a playful edited video, so we can’t see everything other people do in this household.","choices":["The dinner","The planning","Who washes up?"],"sticker":"Chef’s little secret ✳"},"C024":{"room":"balcony","art":"C024","object":"The washing machine","title":"Is the laundry done yet?","description":"A staged comic “housework tutorial” contrasts a partial action with finishing the task.","question":"Who decides what “finished” means?","lens":"The video repeatedly contrasts doing one step with completing a sequence. In its staged scenes, a woman holding a child also reminds the man about unfinished domestic tasks.","alternative":"This is staged comedy, not footage proving how most men behave. The man does carry out some work, including subsequent steps.","first":"The washing machine is running. Job done… or is it?","main":[{"id":"C024-E06","type":"On-screen text","zh":"只是“洗”了","en":"He only washed them.","treatment":"原文＋英文意译"},{"id":"C024-E07","type":"On-screen text","zh":"一件一件展开晾干；才叫洗好了","en":"Spread out and hang each item to dry. Only then is the laundry finished.","treatment":"两段连续视频字幕＋英文翻译"}],"follow":[{"id":"C024-E15","type":"Character dialogue (staged)","zh":"待会你把桌子收拾一下","en":"Please tidy up the table in a little while.","treatment":"女性角色原话＋英文翻译"}],"comments":[{"id":"C024-E18","type":"Reader comment","zh":"能立马去做已经打败90%的老公","en":"Being willing to do it immediately already puts him ahead of 90% of husbands.","treatment":"评论原文＋英文翻译；夸张评价语境"}],"comp":"C001","compText":"Another post, another response to a man hanging laundry","caveat":"Satire about household behaviour is not evidence about a real couple’s long-term task division.","id":"C024","images":["assets/scenes/c024_1.png","assets/scenes/c024_2.png","assets/scenes/c024_3.png"],"sourceType":"Staged comedy","unique":"A separate creator and household; this is not the same family as the other rooms.","tease":"One small button, several more steps. The joke is in what comes after.","friendlyReading":"Pressing start is one part of laundry. Unfolding, hanging and finishing it are other parts. The sketch makes that gap the joke.","friendlyOther":"This is a comedy sketch, not a record of how every couple does their washing.","choices":["He started the wash","Who finishes it?","The joke itself"],"sticker":"Wait… not yet! ✳"},"C001":{"room":"balcony","art":"C001","object":"The clothes rail","title":"The very unusual clothes hanger","description":"A creator films a husband hanging clothes in an unusual, humorous way.","question":"Who is judging the way he does it?","lens":"The creator frames the behaviour humorously. Comments disagree: some find it practical, some worry about the result, and others compare him to other men.","alternative":"The footage shows a husband actually hanging clothes. It cannot reveal who handles laundry across the rest of the week.","first":"He is hanging the clothes. The hanger is in his mouth. You might need a second look.","main":[{"id":"C001-E01","type":"Creator title","zh":"来看看我老公做的家务","en":"Come and see the housework my husband does.","treatment":"Original wording + English translation"},{"id":"C001-E02","type":"On-screen text","zh":"给你们看看我老公是咋晾衣服的","en":"Let me show you how my husband hangs up the laundry.","treatment":"Original wording + English translation"}],"follow":[{"id":"C001-E08","type":"Creator reply","zh":"反正衣服是湿的","en":"The clothes are wet anyway.","treatment":"Original reply + English translation"}],"comments":[{"id":"C001-E07","type":"Reader comment","zh":"我居然觉得很实用！！！就是咬那几个衣架我会流口水，不太行","en":"I actually think it is very practical! But I would drool while holding those hangers in my mouth, so that part would not work for me.","treatment":"Comment excerpt + English translation"},{"id":"C001-E09","type":"Reader comment","zh":"他每件都甩了一下，比很多男人都优秀。","en":"He shook out each item. That is better than what many men do.","treatment":"Comment excerpt + English translation"},{"id":"C001-E10","type":"Reader comment","zh":"但是这样衣服下摆变得皱皱的了，不过这个好快啊","en":"But this makes the hems wrinkled. Still, it is very fast.","treatment":"Comment excerpt (emoji omitted) + English translation"}],"comp":"C024","compText":"A staged video asks what completing a task entails","caveat":"Humour and readers’ judgments do not establish a family’s lasting division of work.","id":"C001","images":["assets/scenes/c001_1.png"],"sourceType":"Creator-edited lifestyle post","unique":"A separate creator and household; this is not the same family as the other rooms.","tease":"There is more than one way to hang a shirt, apparently.","friendlyReading":"A funny way to hang laundry gets very different reactions. Some readers cheer him on; others wonder about the result.","friendlyOther":"He is doing the laundry here. The clip doesn’t show who handles it the rest of the week.","choices":["The hanger","His determination","Everyone’s reactions"],"sticker":"Well, that’s a way! ✳"},"C003":{"room":"bedroom","art":"C003","object":"The baby’s crib","title":"Work, baby, repeat","description":"A new mother describes taking care of a two-month-old baby while working from home.","question":"Whose time is being rearranged?","lens":"The creator describes working in fragments of time and rejecting the need for a perfect image of motherhood. Readers also express concern about coping.","alternative":"Her statement that she can balance the two is about her own situation, not proof that this works for everyone.","first":"A laptop stays open beside a sleeping baby. The day is split into tiny moments.","main":[{"id":"C003-E02","type":"Creator caption","zh":"一胎宝妈，没人搭把手，边带娃边工作","en":"I am a first-time mother with no one to lend a hand, caring for my baby while working.","treatment":"Original excerpt + English translation"},{"id":"C003-E04","type":"Creator caption","zh":"碎片时间挤一挤，娃睡我干活，完全能平衡","en":"By making use of small pockets of time and working while the baby sleeps, I can balance both.","treatment":"Original excerpt + English translation"},{"id":"C003-E05","type":"Creator caption","zh":"没有精致摆拍，就是普通妈妈的日常；接受自己的不完美，带娃和搞事业不用逼自己满分","en":"No polished staged photos, just an ordinary mother’s daily life. Accept imperfection; you do not have to be perfect at parenting and work.","treatment":"Two original excerpts combined + English paraphrased translation"}],"follow":[{"id":"C003-E12","type":"Creator reply","zh":"还没出月时我也担心自己会带不好，但实际并没有想象中手忙脚乱，月子里面学会一些带宝宝技能和了解宝宝的需求，除了睡眠不够 其他还好","en":"Before my confinement period ended, I was also worried I would not cope. It was not as chaotic as I imagined. I learnt some baby-care skills and to understand the baby’s needs; apart from too little sleep, things are okay.","treatment":"Original excerpt + English translation"}],"comments":[{"id":"C003-E11","type":"Reader comment","zh":"我马上要一个人带娃了，我好害怕","en":"I will soon be caring for my baby on my own, and I am really scared.","treatment":"Original comment excerpt + English translation"},{"id":"C003-E12","type":"Creator reply","zh":"还没出月时我也担心自己会带不好，但实际并没有想象中手忙脚乱，月子里面学会一些带宝宝技能和了解宝宝的需求，除了睡眠不够 其他还好","en":"Before my confinement period ended, I was also worried I would not cope. It was not as chaotic as I imagined. I learnt some baby-care skills and to understand the baby’s needs; apart from too little sleep, things are okay.","treatment":"Original excerpt + English translation"}],"comp":"C015","compText":"A different creator describes care as shared","caveat":"This is a self-described moment in one creator’s experience, not a measure of all unpaid work.","id":"C003","images":["assets/scenes/c003_1.png"],"sourceType":"Creator-edited lifestyle post","unique":"A separate creator and household; this is not the same family as the other rooms.","tease":"A quiet room can still hold a very busy day.","friendlyReading":"She describes fitting work into the gaps around caring for her two-month-old baby, without pretending that perfect motherhood is the goal.","friendlyOther":"This is one mother’s experience, not a recipe that works for everyone.","choices":["The sleeping baby","The open laptop","Who gets a break?"],"sticker":"A day in fragments ✳"}},"archive":[{"id":"C001","theme":"责任的不同评价","role":"对照案例","insight":"男性晾衣方式与评价冲突","room":"Balcony / 阳台","featured":true},{"id":"C002","theme":"照护时间如何分配","role":"核心／转述","insight":"母亲一日时间安排和分担建议","room":"Entrance / 玄关（拟；可按现有网站案例位置调整）","featured":false},{"id":"C003","theme":"育儿与工作交叠","role":"核心","insight":"独自带娃与接受不完美","room":"Bedroom / 卧室（建议关联婴儿床、闹钟或作息）","featured":true},{"id":"C004","theme":"职场、照护与副业","role":"核心","insight":"祖辈支持与自我价值","room":"Living Room / 客厅（建议以儿童玩具或绘本进入；真实拍摄房间未确证）","featured":false},{"id":"C005","theme":"精致饮食与母亲形象","role":"语境对照","insight":"精致早餐受到羡慕","room":"Kitchen-Dining / 厨餐厅","featured":false},{"id":"C006","theme":"餐食审美与清洁成本","role":"语境对照","insight":"“随意”早餐与油污洗碗","room":"Kitchen-Dining / 厨餐厅","featured":false},{"id":"C007","theme":"高能量母职叙事","role":"核心","insight":"多项家务集中呈现","room":"Living Room / 客厅（建议关联收纳柜或清洁用品）","featured":false},{"id":"C008","theme":"娇妻标签与自我定义","role":"反向对照","insight":"已婚辣妹与丈夫照料表述","room":"Kitchen-Dining / 厨餐厅","featured":false},{"id":"C009","theme":"家庭野餐任务分配","role":"核心","insight":"男炒菜、女备餐照护","room":"Entrance / 入户","featured":false},{"id":"C010","theme":"亲子美学","role":"语境对照","insight":"理想亲子关系被观看","room":"Living Room / 客厅","featured":false},{"id":"C011","theme":"购物与家庭需求记忆","role":"核心","insight":"记住儿子爱喝和爱吃","room":"Kitchen-Dining / 厨餐厅","featured":true},{"id":"C012","theme":"家宴与女性劳动","role":"核心","insight":"多女性备菜、男性多用餐","room":"Kitchen-Dining / 厨餐厅","featured":false},{"id":"C013","theme":"母亲自由与照护意义","role":"核心／差异","insight":"自由受限与自我重新理解","room":"Entrance / 入户","featured":false},{"id":"C014","theme":"做饭与母职幸福","role":"核心","insight":"每周常做孩子喜欢的菜","room":"Kitchen-Dining / 厨餐厅","featured":false},{"id":"C015","theme":"明确共同承担家务","role":"反向对照","insight":"互相做饭洗碗、父亲辅导","room":"Living Room / 客厅","featured":true},{"id":"C016","theme":"清洁治愈与维护风险","role":"语境对照","insight":"清洁剂台面发白","room":"Research archive only / 无对应主要房间","featured":false},{"id":"C017","theme":"清洁劳动与商品化","role":"语境对照","insight":"多房间打扫和用品推荐","room":"Bedroom / 卧室（建议以床品和除尘工具进入，其他房间作为相关场景）","featured":false},{"id":"C018","theme":"清洁愉悦与疲惫","role":"语境对照","insight":"既解压又累","room":"Living Room / 客厅","featured":false},{"id":"C019","theme":"家庭维护的认知劳动","role":"核心／管理","insight":"外包仍需安排","room":"Living Room / 客厅（左侧鞋柜）","featured":true},{"id":"C020","theme":"周菜单与双人打卡","role":"核心／管理","insight":"菜单先规划、两人打卡","room":"Kitchen-Dining / 厨餐厅","featured":false},{"id":"C021","theme":"男性主动承担","role":"反向对照","insight":"订食材、做饭和洗碗","room":"Kitchen-Dining / 厨餐厅","featured":true},{"id":"C022","theme":"家务提醒被称小事","role":"核心／情景表演","insight":"女性发现提醒与争议","room":"Research archive only / 无对应主要房间","featured":false},{"id":"C023","theme":"男性家务与自动化","role":"反向对照","insight":"同居双方各自挣钱、机器帮清洁","room":"Living Room / 客厅","featured":false},{"id":"C024","theme":"完整家务责任与监督","role":"核心／情景表演","insight":"男执行步骤、女抱娃指导","room":"Balcony / 阳台（建议以晾衣架或洗衣篮进入；可关联玄关、厨房和客厅）","featured":true}]};
+window.BTPH_CONTENT = {
+"intro": {
+  "title": "Behind the Perfect Home",
+  "paragraphs": [
+    "The homes we grow up in leave traces of the people who cared for us. A familiar corner, a small habit, a gesture repeated until we forget whose hands it came from.",
+    "This little home in China is pieced together from 24 Rednote posts. Each room holds fragments of everyday life, where ordinary objects carry quiet expectations.",
+    "As a young woman from China, I wonder when an act of love becomes something simply expected of us.",
+    "As you wander through these rooms, think of a home you know. What would you carry with you, and what would you leave behind?"
+  ]
+},
+  "cases": {
+    "C019": {
+      "room": "living",
+      "art": "C019",
+      "object": "The shoe cabinet",
+      "title": "The list that remembers",
+      "description": "A maintenance tracker sits at the door. Some tasks have not happened yet.",
+      "question": "Who remembers when something needs doing?",
+      "lens": "The list documents remembering, scheduling and coordination. In a reply, the creator says that hiring someone online still leaves the work of organising it.",
+      "alternative": "The creator does not state their gender or who manages every household task. Lists may also be a chosen way to reduce stress.",
+      "first": "Air conditioner. Cooker hood. Another little job for later. Who keeps track of it all?",
+      "main": [
+        {
+          "id": "C019-E02",
+          "type": "Creator caption",
+          "zh": "家里东西多了，琐事也跟着多了很多。电器啥时候该修、空调啥时候该洗、油烟机啥时候该清洁...时间一长很容易忘",
+          "en": "As the number of things at home grows, so do the small tasks. It is easy to forget when appliances need repairing, air conditioners need cleaning or range hoods need maintenance.",
+          "treatment": "原文节选＋英文翻译"
+        },
+        {
+          "id": "C019-E04",
+          "type": "Creator caption",
+          "zh": "把家里大大小小的东西列出来，定好检查或保养的时间，定时去维护",
+          "en": "List the things around the home, decide when they need checking or maintenance, and carry out the tasks regularly.",
+          "treatment": "原文＋英文翻译"
+        }
+      ],
+      "follow": [
+        {
+          "id": "C019-E13",
+          "type": "Creator reply",
+          "zh": "其实都是很小的事！但是就是特别琐碎。很多事情，其实都是网上叫人来做，但就是要自己去安排！",
+          "en": "They are all small tasks, but there are so many details. For many of them, I find someone online to do the work, but I still have to organise everything myself.",
+          "treatment": "作者回复节选；省略表情符号＋英文翻译"
+        }
+      ],
+      "comments": [
+        {
+          "id": "C019-E12",
+          "type": "Reader comment",
+          "zh": "太厉害了宝贝，完全做不到！",
+          "en": "That is amazing! I could never manage this!",
+          "treatment": "评论原文＋英文翻译"
+        }
+      ],
+      "comp": "C011",
+      "compText": "From organising maintenance to remembering what to buy",
+      "caveat": "Creator identity and long-term household division are not established.",
+      "id": "C019",
+      "images": [
+        "assets/scenes/c019_1.png"
+      ],
+      "sourceType": "Creator-edited lifestyle post",
+      "unique": "A separate creator and household; this is not the same family as the other rooms.",
+      "tease": "A list by the door knows a surprising amount about a home.",
+      "friendlyReading": "The list remembers what the room cannot. Even booking someone else to do a job takes a person to notice and arrange it.",
+      "friendlyOther": "We don’t know who handles every task here. And for some people, a list is a small relief.",
+      "choices": [
+        "The tidy checklist",
+        "Who keeps it updated?",
+        "The jobs still waiting"
+      ],
+      "sticker": "Psst… check the list ✳"
+    },
+    "C015": {
+      "room": "living",
+      "art": "C015",
+      "object": "The coffee table",
+      "title": "A tidy room, many hands",
+      "description": "The room looks comfortably tidy. The caption tells us more about who participates.",
+      "question": "Who helps keep this home running?",
+      "lens": "The creator explicitly describes shared cleaning and one person washing dishes when another cooks. A father also helps his daughter with schoolwork.",
+      "alternative": "Photos of a tidy home cannot measure the total work done, and a robot vacuum does not eliminate every cleaning task.",
+      "first": "A cosy living room. Homework on the table. Everything seems to be in its place.",
+      "main": [
+        {
+          "id": "C015-E03",
+          "type": "Creator caption",
+          "zh": "爸爸👨🏻下班会和女儿👧🏻一起讨论题目",
+          "en": "After work, Dad discusses schoolwork with our daughter.",
+          "treatment": "原文＋英文翻译"
+        },
+        {
+          "id": "C015-E05",
+          "type": "Creator caption",
+          "zh": "家里的干净整洁大家会一起维护，今天你做饭，我就主动刷碗",
+          "en": "The whole family helps keep the home clean and tidy. If you cook today, I will take the initiative to wash the dishes.",
+          "treatment": "原文＋英文翻译"
+        }
+      ],
+      "follow": [
+        {
+          "id": "C015-E12",
+          "type": "Creator reply",
+          "zh": "每天扫地机器人扫一次",
+          "en": "The robot vacuum cleans once every day.",
+          "treatment": "作者原文＋英文翻译"
+        }
+      ],
+      "comments": [
+        {
+          "id": "C015-E11",
+          "type": "Reader comment",
+          "zh": "养猫怎么还一层不染，不会很多猫毛吗？我家天天扫地吸尘都很多猫毛",
+          "en": "How do you keep your home so spotless with a cat? Don't you get lots of cat hair? I vacuum every day and still find plenty.",
+          "treatment": "原文节选＋英文翻译"
+        },
+        {
+          "id": "C015-E12",
+          "type": "Creator reply",
+          "zh": "每天扫地机器人扫一次",
+          "en": "The robot vacuum cleans once every day.",
+          "treatment": "作者原文＋英文翻译"
+        }
+      ],
+      "comp": "C003",
+      "compText": "Another account of care and its demands",
+      "caveat": "A description of shared tasks is not proof of perfectly equal long-term responsibility.",
+      "id": "C015",
+      "images": [
+        "assets/scenes/c015_1.png"
+      ],
+      "sourceType": "Creator-edited lifestyle post",
+      "unique": "A separate creator and household; this is not the same family as the other rooms.",
+      "tease": "There might be more than one pair of hands behind this scene.",
+      "friendlyReading": "This creator talks about sharing jobs: cooking, dishes, cleaning and helping with homework. Even a robot vacuum has a part to play.",
+      "friendlyOther": "One tidy photograph can’t tell us exactly how responsibility is shared across the week.",
+      "choices": [
+        "The beautiful room",
+        "The family teamwork",
+        "What happens off-camera"
+      ],
+      "sticker": "Who did what? ✳"
+    },
+    "C011": {
+      "room": "kitchen",
+      "art": "C011",
+      "object": "The grocery bags",
+      "title": "A shopping bag full of little things",
+      "description": "A mother shops for a family celebration; her video is framed as a happy, polished day.",
+      "question": "What was remembered before the shopping began?",
+      "lens": "The creator names her son’s preferences while choosing food. The post makes a moment of remembering visible, while most of the available discussion focuses on fashion and products.",
+      "alternative": "Remembering a child’s favourite food does not establish who plans every meal. The creator may genuinely enjoy this outing.",
+      "first": "Milk, snacks and a family gathering tonight. A small shopping trip, with a lot to remember.",
+      "main": [
+        {
+          "id": "C011-E17",
+          "type": "On-screen text",
+          "zh": "主要儿子爱喝",
+          "en": "Mainly because my son likes drinking it.",
+          "treatment": "视频原文节选＋英文翻译"
+        },
+        {
+          "id": "C011-E18",
+          "type": "On-screen text",
+          "zh": "还给他买了几包他很爱吃的乳酪棒呢",
+          "en": "I also bought him a few packs of cheese snacks that he really likes.",
+          "treatment": "视频原文＋英文翻译"
+        }
+      ],
+      "follow": [
+        {
+          "id": "C011-E09",
+          "type": "On-screen text",
+          "zh": "因为晚上要家庭大聚餐",
+          "en": "Because we have a big family gathering tonight.",
+          "treatment": "原文＋英文翻译"
+        }
+      ],
+      "comments": [
+        {
+          "id": "C011-E14",
+          "type": "Reader comment",
+          "zh": "种草华伦西亚的可乐包了，好纠结颜色！！！",
+          "en": "I really want the Balenciaga Le Cagole bag, but I cannot decide which colour to choose!",
+          "treatment": "评论原文＋英文翻译"
+        },
+        {
+          "id": "C011-E15",
+          "type": "Creator reply",
+          "zh": "白色白色🤍",
+          "en": "White, definitely white!",
+          "treatment": "作者原文＋英文翻译"
+        }
+      ],
+      "comp": "C021",
+      "compText": "Another creator takes charge of food, in a different way",
+      "caveat": "The footage does not establish who planned the wider gathering or how shopping is usually shared.",
+      "id": "C011",
+      "images": [
+        "assets/scenes/c011_1.png"
+      ],
+      "sourceType": "Creator-edited lifestyle post",
+      "unique": "A separate creator and household; this is not the same family as the other rooms.",
+      "tease": "Some of the most important things in the bag are invisible.",
+      "friendlyReading": "She remembers what her son likes while she shops. Meanwhile, the comments drift towards a designer handbag. Both are parts of the same post.",
+      "friendlyOther": "Loving the outing doesn’t tell us who plans every meal or how shopping is shared.",
+      "choices": [
+        "The groceries",
+        "The little favourites",
+        "The polished outfit"
+      ],
+      "sticker": "Look in the bag ✳"
+    },
+    "C021": {
+      "room": "kitchen",
+      "art": "C021",
+      "object": "The cooking pan",
+      "title": "Tonight, he’s cooking",
+      "description": "A male creator calls himself a full-time househusband and presents a day of domestic work.",
+      "question": "What does taking responsibility look like here?",
+      "lens": "His video shows cooking and several other tasks. Importantly, the creator also describes ordering ingredients ahead of time and taking ownership of washing up.",
+      "alternative": "This is a creator’s edited, humorous self-presentation. It does not show every task done by everyone in the household.",
+      "first": "A pan on the stove and a househusband in charge. What else is on his to-do list?",
+      "main": [
+        {
+          "id": "C021-E03",
+          "type": "On-screen text",
+          "zh": "欢迎收看全职家庭煮夫",
+          "en": "Welcome to the life of a full-time househusband.",
+          "treatment": "原文＋英文翻译"
+        },
+        {
+          "id": "C021-E11",
+          "type": "On-screen text",
+          "zh": "OK提前点了食材到家",
+          "en": "Okay, the ingredients I ordered in advance have arrived.",
+          "treatment": "原文＋英文翻译"
+        }
+      ],
+      "follow": [
+        {
+          "id": "C021-E15",
+          "type": "On-screen text",
+          "zh": "以后刷碗啊都是我的事",
+          "en": "From now on, washing the dishes is my responsibility.",
+          "treatment": "原文＋英文翻译"
+        }
+      ],
+      "comments": [],
+      "comp": "C011",
+      "compText": "Another way food and care enter everyday lifestyle content",
+      "caveat": "Employment arrangements and a complete division of labour cannot be established.",
+      "id": "C021",
+      "images": [
+        "assets/scenes/c021_1.png"
+      ],
+      "sourceType": "Creator-edited lifestyle post",
+      "unique": "A separate creator and household; this is not the same family as the other rooms.",
+      "tease": "Dinner begins long before the pan gets hot.",
+      "friendlyReading": "He doesn’t just cook. He says he ordered the ingredients beforehand and takes responsibility for washing up, too.",
+      "friendlyOther": "It’s a playful edited video, so we can’t see everything other people do in this household.",
+      "choices": [
+        "The dinner",
+        "The planning",
+        "Who washes up?"
+      ],
+      "sticker": "Chef’s little secret ✳"
+    },
+    "C024": {
+      "room": "balcony",
+      "art": "C024",
+      "object": "The washing machine",
+      "title": "Is the laundry done yet?",
+      "description": "A staged comic “housework tutorial” contrasts a partial action with finishing the task.",
+      "question": "Who decides what “finished” means?",
+      "lens": "The video repeatedly contrasts doing one step with completing a sequence. In its staged scenes, a woman holding a child also reminds the man about unfinished domestic tasks.",
+      "alternative": "This is staged comedy, not footage proving how most men behave. The man does carry out some work, including subsequent steps.",
+      "first": "The washing machine is running. Job done… or is it?",
+      "main": [
+        {
+          "id": "C024-E06",
+          "type": "On-screen text",
+          "zh": "只是“洗”了",
+          "en": "He only washed them.",
+          "treatment": "原文＋英文意译"
+        },
+        {
+          "id": "C024-E07",
+          "type": "On-screen text",
+          "zh": "一件一件展开晾干；才叫洗好了",
+          "en": "Spread out and hang each item to dry. Only then is the laundry finished.",
+          "treatment": "两段连续视频字幕＋英文翻译"
+        }
+      ],
+      "follow": [
+        {
+          "id": "C024-E15",
+          "type": "Character dialogue (staged)",
+          "zh": "待会你把桌子收拾一下",
+          "en": "Please tidy up the table in a little while.",
+          "treatment": "女性角色原话＋英文翻译"
+        }
+      ],
+      "comments": [
+        {
+          "id": "C024-E18",
+          "type": "Reader comment",
+          "zh": "能立马去做已经打败90%的老公",
+          "en": "Being willing to do it immediately already puts him ahead of 90% of husbands.",
+          "treatment": "评论原文＋英文翻译；夸张评价语境"
+        }
+      ],
+      "comp": "C001",
+      "compText": "Another post, another response to a man hanging laundry",
+      "caveat": "Satire about household behaviour is not evidence about a real couple’s long-term task division.",
+      "id": "C024",
+      "images": [
+        "assets/scenes/c024_1.png",
+        "assets/scenes/c024_2.png",
+        "assets/scenes/c024_3.png"
+      ],
+      "sourceType": "Staged comedy",
+      "unique": "A separate creator and household; this is not the same family as the other rooms.",
+      "tease": "One small button, several more steps. The joke is in what comes after.",
+      "friendlyReading": "Pressing start is one part of laundry. Unfolding, hanging and finishing it are other parts. The sketch makes that gap the joke.",
+      "friendlyOther": "This is a comedy sketch, not a record of how every couple does their washing.",
+      "choices": [
+        "He started the wash",
+        "Who finishes it?",
+        "The joke itself"
+      ],
+      "sticker": "Wait… not yet! ✳"
+    },
+    "C001": {
+      "room": "balcony",
+      "art": "C001",
+      "object": "The clothes rail",
+      "title": "The very unusual clothes hanger",
+      "description": "A creator films a husband hanging clothes in an unusual, humorous way.",
+      "question": "Who is judging the way he does it?",
+      "lens": "The creator frames the behaviour humorously. Comments disagree: some find it practical, some worry about the result, and others compare him to other men.",
+      "alternative": "The footage shows a husband actually hanging clothes. It cannot reveal who handles laundry across the rest of the week.",
+      "first": "He is hanging the clothes. The hanger is in his mouth. You might need a second look.",
+      "main": [
+        {
+          "id": "C001-E01",
+          "type": "Creator title",
+          "zh": "来看看我老公做的家务",
+          "en": "Come and see the housework my husband does.",
+          "treatment": "Original wording + English translation"
+        },
+        {
+          "id": "C001-E02",
+          "type": "On-screen text",
+          "zh": "给你们看看我老公是咋晾衣服的",
+          "en": "Let me show you how my husband hangs up the laundry.",
+          "treatment": "Original wording + English translation"
+        }
+      ],
+      "follow": [
+        {
+          "id": "C001-E08",
+          "type": "Creator reply",
+          "zh": "反正衣服是湿的",
+          "en": "The clothes are wet anyway.",
+          "treatment": "Original reply + English translation"
+        }
+      ],
+      "comments": [
+        {
+          "id": "C001-E07",
+          "type": "Reader comment",
+          "zh": "我居然觉得很实用！！！就是咬那几个衣架我会流口水，不太行",
+          "en": "I actually think it is very practical! But I would drool while holding those hangers in my mouth, so that part would not work for me.",
+          "treatment": "Comment excerpt + English translation"
+        },
+        {
+          "id": "C001-E09",
+          "type": "Reader comment",
+          "zh": "他每件都甩了一下，比很多男人都优秀。",
+          "en": "He shook out each item. That is better than what many men do.",
+          "treatment": "Comment excerpt + English translation"
+        },
+        {
+          "id": "C001-E10",
+          "type": "Reader comment",
+          "zh": "但是这样衣服下摆变得皱皱的了，不过这个好快啊",
+          "en": "But this makes the hems wrinkled. Still, it is very fast.",
+          "treatment": "Comment excerpt (emoji omitted) + English translation"
+        }
+      ],
+      "comp": "C024",
+      "compText": "A staged video asks what completing a task entails",
+      "caveat": "Humour and readers’ judgments do not establish a family’s lasting division of work.",
+      "id": "C001",
+      "images": [
+        "assets/scenes/c001_1.png"
+      ],
+      "sourceType": "Creator-edited lifestyle post",
+      "unique": "A separate creator and household; this is not the same family as the other rooms.",
+      "tease": "There is more than one way to hang a shirt, apparently.",
+      "friendlyReading": "A funny way to hang laundry gets very different reactions. Some readers cheer him on; others wonder about the result.",
+      "friendlyOther": "He is doing the laundry here. The clip doesn’t show who handles it the rest of the week.",
+      "choices": [
+        "The hanger",
+        "His determination",
+        "Everyone’s reactions"
+      ],
+      "sticker": "Well, that’s a way! ✳"
+    },
+    "C003": {
+      "room": "bedroom",
+      "art": "C003",
+      "object": "The baby’s crib",
+      "title": "Work, baby, repeat",
+      "description": "A new mother describes taking care of a two-month-old baby while working from home.",
+      "question": "Whose time is being rearranged?",
+      "lens": "The creator describes working in fragments of time and rejecting the need for a perfect image of motherhood. Readers also express concern about coping.",
+      "alternative": "Her statement that she can balance the two is about her own situation, not proof that this works for everyone.",
+      "first": "A laptop stays open beside a sleeping baby. The day is split into tiny moments.",
+      "main": [
+        {
+          "id": "C003-E02",
+          "type": "Creator caption",
+          "zh": "一胎宝妈，没人搭把手，边带娃边工作",
+          "en": "I am a first-time mother with no one to lend a hand, caring for my baby while working.",
+          "treatment": "Original excerpt + English translation"
+        },
+        {
+          "id": "C003-E04",
+          "type": "Creator caption",
+          "zh": "碎片时间挤一挤，娃睡我干活，完全能平衡",
+          "en": "By making use of small pockets of time and working while the baby sleeps, I can balance both.",
+          "treatment": "Original excerpt + English translation"
+        },
+        {
+          "id": "C003-E05",
+          "type": "Creator caption",
+          "zh": "没有精致摆拍，就是普通妈妈的日常；接受自己的不完美，带娃和搞事业不用逼自己满分",
+          "en": "No polished staged photos, just an ordinary mother’s daily life. Accept imperfection; you do not have to be perfect at parenting and work.",
+          "treatment": "Two original excerpts combined + English paraphrased translation"
+        }
+      ],
+      "follow": [
+        {
+          "id": "C003-E12",
+          "type": "Creator reply",
+          "zh": "还没出月时我也担心自己会带不好，但实际并没有想象中手忙脚乱，月子里面学会一些带宝宝技能和了解宝宝的需求，除了睡眠不够 其他还好",
+          "en": "Before my confinement period ended, I was also worried I would not cope. It was not as chaotic as I imagined. I learnt some baby-care skills and to understand the baby’s needs; apart from too little sleep, things are okay.",
+          "treatment": "Original excerpt + English translation"
+        }
+      ],
+      "comments": [
+        {
+          "id": "C003-E11",
+          "type": "Reader comment",
+          "zh": "我马上要一个人带娃了，我好害怕",
+          "en": "I will soon be caring for my baby on my own, and I am really scared.",
+          "treatment": "Original comment excerpt + English translation"
+        },
+        {
+          "id": "C003-E12",
+          "type": "Creator reply",
+          "zh": "还没出月时我也担心自己会带不好，但实际并没有想象中手忙脚乱，月子里面学会一些带宝宝技能和了解宝宝的需求，除了睡眠不够 其他还好",
+          "en": "Before my confinement period ended, I was also worried I would not cope. It was not as chaotic as I imagined. I learnt some baby-care skills and to understand the baby’s needs; apart from too little sleep, things are okay.",
+          "treatment": "Original excerpt + English translation"
+        }
+      ],
+      "comp": "C015",
+      "compText": "A different creator describes care as shared",
+      "caveat": "This is a self-described moment in one creator’s experience, not a measure of all unpaid work.",
+      "id": "C003",
+      "images": [
+        "assets/scenes/c003_1.png"
+      ],
+      "sourceType": "Creator-edited lifestyle post",
+      "unique": "A separate creator and household; this is not the same family as the other rooms.",
+      "tease": "A quiet room can still hold a very busy day.",
+      "friendlyReading": "She describes fitting work into the gaps around caring for her two-month-old baby, without pretending that perfect motherhood is the goal.",
+      "friendlyOther": "This is one mother’s experience, not a recipe that works for everyone.",
+      "choices": [
+        "The sleeping baby",
+        "The open laptop",
+        "Who gets a break?"
+      ],
+      "sticker": "A day in fragments ✳"
+    }
+  },
+  "archive": [
+    {
+      "id": "C001",
+      "theme": "责任的不同评价",
+      "role": "对照案例",
+      "insight": "男性晾衣方式与评价冲突",
+      "room": "Balcony / 阳台",
+      "featured": true
+    },
+    {
+      "id": "C002",
+      "theme": "照护时间如何分配",
+      "role": "核心／转述",
+      "insight": "母亲一日时间安排和分担建议",
+      "room": "Entrance / 玄关（拟；可按现有网站案例位置调整）",
+      "featured": false
+    },
+    {
+      "id": "C003",
+      "theme": "育儿与工作交叠",
+      "role": "核心",
+      "insight": "独自带娃与接受不完美",
+      "room": "Bedroom / 卧室（建议关联婴儿床、闹钟或作息）",
+      "featured": true
+    },
+    {
+      "id": "C004",
+      "theme": "职场、照护与副业",
+      "role": "核心",
+      "insight": "祖辈支持与自我价值",
+      "room": "Living Room / 客厅（建议以儿童玩具或绘本进入；真实拍摄房间未确证）",
+      "featured": false
+    },
+    {
+      "id": "C005",
+      "theme": "精致饮食与母亲形象",
+      "role": "语境对照",
+      "insight": "精致早餐受到羡慕",
+      "room": "Kitchen-Dining / 厨餐厅",
+      "featured": false
+    },
+    {
+      "id": "C006",
+      "theme": "餐食审美与清洁成本",
+      "role": "语境对照",
+      "insight": "“随意”早餐与油污洗碗",
+      "room": "Kitchen-Dining / 厨餐厅",
+      "featured": false
+    },
+    {
+      "id": "C007",
+      "theme": "高能量母职叙事",
+      "role": "核心",
+      "insight": "多项家务集中呈现",
+      "room": "Living Room / 客厅（建议关联收纳柜或清洁用品）",
+      "featured": false
+    },
+    {
+      "id": "C008",
+      "theme": "娇妻标签与自我定义",
+      "role": "反向对照",
+      "insight": "已婚辣妹与丈夫照料表述",
+      "room": "Kitchen-Dining / 厨餐厅",
+      "featured": false
+    },
+    {
+      "id": "C009",
+      "theme": "家庭野餐任务分配",
+      "role": "核心",
+      "insight": "男炒菜、女备餐照护",
+      "room": "Entrance / 入户",
+      "featured": false
+    },
+    {
+      "id": "C010",
+      "theme": "亲子美学",
+      "role": "语境对照",
+      "insight": "理想亲子关系被观看",
+      "room": "Living Room / 客厅",
+      "featured": false
+    },
+    {
+      "id": "C011",
+      "theme": "购物与家庭需求记忆",
+      "role": "核心",
+      "insight": "记住儿子爱喝和爱吃",
+      "room": "Kitchen-Dining / 厨餐厅",
+      "featured": true
+    },
+    {
+      "id": "C012",
+      "theme": "家宴与女性劳动",
+      "role": "核心",
+      "insight": "多女性备菜、男性多用餐",
+      "room": "Kitchen-Dining / 厨餐厅",
+      "featured": false
+    },
+    {
+      "id": "C013",
+      "theme": "母亲自由与照护意义",
+      "role": "核心／差异",
+      "insight": "自由受限与自我重新理解",
+      "room": "Entrance / 入户",
+      "featured": false
+    },
+    {
+      "id": "C014",
+      "theme": "做饭与母职幸福",
+      "role": "核心",
+      "insight": "每周常做孩子喜欢的菜",
+      "room": "Kitchen-Dining / 厨餐厅",
+      "featured": false
+    },
+    {
+      "id": "C015",
+      "theme": "明确共同承担家务",
+      "role": "反向对照",
+      "insight": "互相做饭洗碗、父亲辅导",
+      "room": "Living Room / 客厅",
+      "featured": true
+    },
+    {
+      "id": "C016",
+      "theme": "清洁治愈与维护风险",
+      "role": "语境对照",
+      "insight": "清洁剂台面发白",
+      "room": "Research archive only / 无对应主要房间",
+      "featured": false
+    },
+    {
+      "id": "C017",
+      "theme": "清洁劳动与商品化",
+      "role": "语境对照",
+      "insight": "多房间打扫和用品推荐",
+      "room": "Bedroom / 卧室（建议以床品和除尘工具进入，其他房间作为相关场景）",
+      "featured": false
+    },
+    {
+      "id": "C018",
+      "theme": "清洁愉悦与疲惫",
+      "role": "语境对照",
+      "insight": "既解压又累",
+      "room": "Living Room / 客厅",
+      "featured": false
+    },
+    {
+      "id": "C019",
+      "theme": "家庭维护的认知劳动",
+      "role": "核心／管理",
+      "insight": "外包仍需安排",
+      "room": "Living Room / 客厅（左侧鞋柜）",
+      "featured": true
+    },
+    {
+      "id": "C020",
+      "theme": "周菜单与双人打卡",
+      "role": "核心／管理",
+      "insight": "菜单先规划、两人打卡",
+      "room": "Kitchen-Dining / 厨餐厅",
+      "featured": false
+    },
+    {
+      "id": "C021",
+      "theme": "男性主动承担",
+      "role": "反向对照",
+      "insight": "订食材、做饭和洗碗",
+      "room": "Kitchen-Dining / 厨餐厅",
+      "featured": true
+    },
+    {
+      "id": "C022",
+      "theme": "家务提醒被称小事",
+      "role": "核心／情景表演",
+      "insight": "女性发现提醒与争议",
+      "room": "Research archive only / 无对应主要房间",
+      "featured": false
+    },
+    {
+      "id": "C023",
+      "theme": "男性家务与自动化",
+      "role": "反向对照",
+      "insight": "同居双方各自挣钱、机器帮清洁",
+      "room": "Living Room / 客厅",
+      "featured": false
+    },
+    {
+      "id": "C024",
+      "theme": "完整家务责任与监督",
+      "role": "核心／情景表演",
+      "insight": "男执行步骤、女抱娃指导",
+      "room": "Balcony / 阳台（建议以晾衣架或洗衣篮进入；可关联玄关、厨房和客厅）",
+      "featured": true
+    }
+  ]
+};

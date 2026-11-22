@@ -7,11 +7,11 @@
 const data=window.BTPH_CONTENT;
 if(!data){document.body.textContent='Research content is missing.';return;}
 const rooms={
- entrance:{name:'Entrance',alt:'Collaged Chinese apartment front door with a spring couplet',index:'01',art:'entrance.webp'},
- living:{name:'Living room',alt:'Collaged living room with blue sofa, television, coffee table and window',index:'02',art:'living.webp'},
- kitchen:{name:'Kitchen & dining',alt:'Collaged modern Chinese kitchen with grocery bags, cooking area and dining table',index:'03',art:'kitchen.webp'},
- balcony:{name:'Balcony',alt:'Collaged balcony with washing machine and hanging clothes',index:'04',art:'balcony.webp'},
- bedroom:{name:'Bedroom',alt:'Collaged bedroom with bed, wardrobe and baby crib',index:'05',art:'bedroom.webp'}
+ entrance:{name:'Entrance',alt:'Collaged Chinese apartment front door with a spring couplet',index:'01',art:'entrance.png'},
+ living:{name:'Living room',alt:'Collaged living room with blue sofa, television, coffee table and window',index:'02',art:'living.png'},
+ kitchen:{name:'Kitchen & dining',alt:'Collaged modern Chinese kitchen with grocery bags, cooking area and dining table',index:'03',art:'kitchen.png'},
+ balcony:{name:'Balcony',alt:'Collaged balcony with washing machine and hanging clothes',index:'04',art:'balcony.png'},
+ bedroom:{name:'Bedroom',alt:'Collaged bedroom with bed, wardrobe and baby crib',index:'05',art:'bedroom.png'}
 };
 const points={
  entrance:{objects:[],links:[{to:'living',x:54,y:73,glyph:'↗',label:'Enter the living room'}],portal:{x:55,y:48,w:20,h:60,to:'living'}},

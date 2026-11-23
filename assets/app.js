@@ -1,6 +1,6 @@
 /* Behind the Perfect Home / an offline-capable interactive research website.
    Room collages and level-three illustrations are supplied/redrawn visuals.
-   Direct Chinese quotations are from the final evidence workbook, identified by Case/Evidence ID.
+   Chinese and English on-site evidence text is paraphrased from the final evidence workbook, identified internally by Case/Evidence ID.
    All interpretations are explicitly attributed to the researcher; no fabricated metrics. */
 (()=>{
 'use strict';
@@ -102,9 +102,9 @@ function stageHTML(c,stage){
  }
  if(stage===1){
   return `<div class="story-overline">THE WORDS BEHIND THE PICTURE <span class="story-asterisk">✳</span></div>
-   <h2 class="case-title" id="case-title">In their own words<span class="tiny-pink-period">.</span></h2>
+   <h2 class="case-title" id="case-title">What they shared<span class="tiny-pink-period">.</span></h2>
    <div class="source-postcards">${c.main.map(e=>evidenceHTML(e)).join('')}</div>
-   <p class="source-whisper">Chinese text from the public post · English translation underneath</p>`;
+   `;
  }
  const follow=c.follow.filter(e=>!c.comments.some(x=>x.id===e.id));
  const comments=[...c.comments,...follow.filter(e=>e.type==='Creator reply')];
@@ -123,7 +123,7 @@ function updateCase(){
  el.caseImg.onload=()=>{el.caseImg.style.opacity='1'};
  el.visualCounter.textContent=`${String(imgIndex+1).padStart(2,'0')} / ${String(c.images.length).padStart(2,'0')}`;
  el.caseLocation.textContent=rooms[c.room].name.toUpperCase();el.caseIdHead.textContent='STORY '+publicCaseNumber(c.id);
- $('floating-insight').innerHTML=state.step===0?`${esc(c.sticker||'TAKE A LOOK')} <span>✳</span>`:state.step===1?'IN THEIR OWN WORDS <span>✳</span>':'THE COMMENT CORNER <span>✳</span>';
+ $('floating-insight').innerHTML=state.step===0?`${esc(c.sticker||'TAKE A LOOK')} <span>✳</span>`:state.step===1?'FROM THE POSTS <span>✳</span>':'THE COMMENT CORNER <span>✳</span>';
  syncReactions();
  el.caseReading.dataset.step=String(state.step);el.caseReading.closest('.case-main').classList.toggle('cover-view',state.step===0);
  el.caseReading.innerHTML=stageHTML(c,state.step);
@@ -191,7 +191,7 @@ function initResearch(){
  const archive=data.archive;
  el.archive.innerHTML=archive.map(x=>{
   const label=x.featured?'COME INSIDE ↗':'FROM THE 24 POSTS';
-  return `<${x.featured?'button':'div'} ${x.featured?'type="button"':''} class="archive-item ${x.featured?'featured':''}" ${x.featured?`data-open-case="${esc(x.id)}"`:''}><div class="archive-meta">POST ${publicCaseNumber(x.id)} · ${label}</div><div class="archive-theme" lang="zh-Hans">${esc(x.theme)}</div></${x.featured?'button':'div'}>`
+  return `<${x.featured?'button':'div'} ${x.featured?'type="button"':''} class="archive-item ${x.featured?'featured':''}" ${x.featured?`data-open-case="${esc(x.id)}"`:''}><div class="archive-meta">POST ${publicCaseNumber(x.id)} · ${label}</div><div class="archive-theme" lang="en">${esc(x.theme)}</div></${x.featured?'button':'div'}>`
  }).join('');
  el.archive.querySelectorAll('[data-open-case]').forEach(b=>b.addEventListener('click',()=>{
   const id=b.getAttribute('data-open-case');closeResearch();openCase(id,$('open-research'));

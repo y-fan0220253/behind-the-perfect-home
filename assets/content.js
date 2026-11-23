@@ -23,34 +23,34 @@ window.BTPH_CONTENT = {
         {
           "id": "C019-E02",
           "type": "Creator caption",
-          "zh": "家里东西多了，琐事也跟着多了很多。电器啥时候该修、空调啥时候该洗、油烟机啥时候该清洁...时间一长很容易忘",
-          "en": "As the number of things at home grows, so do the small tasks. It is easy to forget when appliances need repairing, air conditioners need cleaning or range hoods need maintenance.",
-          "treatment": "原文节选＋英文翻译"
+          "zh": "家中要照看的物品越添越多，空调清洗、油烟机保养和各种维修的时间也容易记混。",
+          "en": "With more things around the house comes a growing list of repairs and upkeep, from cleaning the air conditioner to looking after the extractor fan. It is hard to remember it all.",
+          "treatment": "Paraphrased in Chinese and English"
         },
         {
           "id": "C019-E04",
           "type": "Creator caption",
-          "zh": "把家里大大小小的东西列出来，定好检查或保养的时间，定时去维护",
-          "en": "List the things around the home, decide when they need checking or maintenance, and carry out the tasks regularly.",
-          "treatment": "原文＋英文翻译"
+          "zh": "把需要照看的家中物品整理成清单，分别安排检查和保养的日子。",
+          "en": "Keeping a list of household items and setting dates for their checks and upkeep helps keep things on track.",
+          "treatment": "Paraphrased in Chinese and English"
         }
       ],
       "follow": [
         {
           "id": "C019-E13",
           "type": "Creator reply",
-          "zh": "其实都是很小的事！但是就是特别琐碎。很多事情，其实都是网上叫人来做，但就是要自己去安排！",
-          "en": "They are all small tasks, but there are so many details. For many of them, I find someone online to do the work, but I still have to organise everything myself.",
-          "treatment": "作者回复节选；省略表情符号＋英文翻译"
+          "zh": "这些都是不起眼的小活儿，可一件接一件。有些可以在网上找人来做，但联系、预约还是得自己操心。",
+          "en": "None of the jobs is huge, but there are so many to coordinate. Even when I hire help online, I am still the one making the arrangements.",
+          "treatment": "Paraphrased in Chinese and English"
         }
       ],
       "comments": [
         {
           "id": "C019-E12",
           "type": "Reader comment",
-          "zh": "太厉害了宝贝，完全做不到！",
-          "en": "That is amazing! I could never manage this!",
-          "treatment": "评论原文＋英文翻译"
+          "zh": "这也太会安排了，我肯定没办法做到这么周全！",
+          "en": "That is some impressive organisation! I could never keep on top of all that.",
+          "treatment": "Paraphrased in Chinese and English"
         }
       ],
       "comp": "C011",
@@ -86,41 +86,41 @@ window.BTPH_CONTENT = {
         {
           "id": "C015-E03",
           "type": "Creator caption",
-          "zh": "爸爸👨🏻下班会和女儿👧🏻一起讨论题目",
-          "en": "After work, Dad discusses schoolwork with our daughter.",
-          "treatment": "原文＋英文翻译"
+          "zh": "下班回家后，爸爸还会和女儿一起琢磨功课里的题目。",
+          "en": "After getting home from work, the father spends time working through school questions with his daughter.",
+          "treatment": "Paraphrased in Chinese and English"
         },
         {
           "id": "C015-E05",
           "type": "Creator caption",
-          "zh": "家里的干净整洁大家会一起维护，今天你做饭，我就主动刷碗",
-          "en": "The whole family helps keep the home clean and tidy. If you cook today, I will take the initiative to wash the dishes.",
-          "treatment": "原文＋英文翻译"
+          "zh": "家里的整洁靠大家一起维持。一个人下厨，另一个人就会主动把碗洗好。",
+          "en": "Keeping the home tidy is a shared effort. When one of us makes dinner, the other offers to wash up.",
+          "treatment": "Paraphrased in Chinese and English"
         }
       ],
       "follow": [
         {
           "id": "C015-E12",
           "type": "Creator reply",
-          "zh": "每天扫地机器人扫一次",
-          "en": "The robot vacuum cleans once every day.",
-          "treatment": "作者原文＋英文翻译"
+          "zh": "家里每天都会让扫地机器人清扫一遍。",
+          "en": "We run the robot vacuum every day.",
+          "treatment": "Paraphrased in Chinese and English"
         }
       ],
       "comments": [
         {
           "id": "C015-E11",
           "type": "Reader comment",
-          "zh": "养猫怎么还一层不染，不会很多猫毛吗？我家天天扫地吸尘都很多猫毛",
-          "en": "How do you keep your home so spotless with a cat? Don't you get lots of cat hair? I vacuum every day and still find plenty.",
-          "treatment": "原文节选＋英文翻译"
+          "zh": "养着猫还能保持这么干净，是怎么做到的？我家天天吸尘，猫毛还是到处都有。",
+          "en": "How do you manage such a clean home with a cat? I vacuum daily and still find fur everywhere.",
+          "treatment": "Paraphrased in Chinese and English"
         },
         {
           "id": "C015-E12",
           "type": "Creator reply",
-          "zh": "每天扫地机器人扫一次",
-          "en": "The robot vacuum cleans once every day.",
-          "treatment": "作者原文＋英文翻译"
+          "zh": "家里每天都会让扫地机器人清扫一遍。",
+          "en": "We run the robot vacuum every day.",
+          "treatment": "Paraphrased in Chinese and English"
         }
       ],
       "comp": "C003",
@@ -156,41 +156,41 @@ window.BTPH_CONTENT = {
         {
           "id": "C011-E17",
           "type": "On-screen text",
-          "zh": "主要儿子爱喝",
-          "en": "Mainly because my son likes drinking it.",
-          "treatment": "视频原文节选＋英文翻译"
+          "zh": "买这种饮料，是想着儿子平时挺喜欢喝。",
+          "en": "I chose this drink with my son in mind, since it is one he enjoys.",
+          "treatment": "Paraphrased in Chinese and English"
         },
         {
           "id": "C011-E18",
           "type": "On-screen text",
-          "zh": "还给他买了几包他很爱吃的乳酪棒呢",
-          "en": "I also bought him a few packs of cheese snacks that he really likes.",
-          "treatment": "视频原文＋英文翻译"
+          "zh": "还顺便带上了几包孩子爱吃的奶酪零食。",
+          "en": "I added a few packs of his favourite cheese snacks to the shopping as well.",
+          "treatment": "Paraphrased in Chinese and English"
         }
       ],
       "follow": [
         {
           "id": "C011-E09",
           "type": "On-screen text",
-          "zh": "因为晚上要家庭大聚餐",
-          "en": "Because we have a big family gathering tonight.",
-          "treatment": "原文＋英文翻译"
+          "zh": "今晚一家人约好聚在一起吃顿饭。",
+          "en": "We have a big family meal planned for this evening.",
+          "treatment": "Paraphrased in Chinese and English"
         }
       ],
       "comments": [
         {
           "id": "C011-E14",
           "type": "Reader comment",
-          "zh": "种草华伦西亚的可乐包了，好纠结颜色！！！",
-          "en": "I really want the Balenciaga Le Cagole bag, but I cannot decide which colour to choose!",
-          "treatment": "评论原文＋英文翻译"
+          "zh": "看完好想买那只 Balenciaga 包，可颜色实在太难选了！",
+          "en": "Now I want that Balenciaga bag too, but I cannot settle on a colour!",
+          "treatment": "Paraphrased in Chinese and English"
         },
         {
           "id": "C011-E15",
           "type": "Creator reply",
-          "zh": "白色白色🤍",
-          "en": "White, definitely white!",
-          "treatment": "作者原文＋英文翻译"
+          "zh": "我更推荐白色呀！",
+          "en": "I would definitely pick the white one!",
+          "treatment": "Paraphrased in Chinese and English"
         }
       ],
       "comp": "C021",
@@ -226,25 +226,25 @@ window.BTPH_CONTENT = {
         {
           "id": "C021-E03",
           "type": "On-screen text",
-          "zh": "欢迎收看全职家庭煮夫",
-          "en": "Welcome to the life of a full-time househusband.",
-          "treatment": "原文＋英文翻译"
+          "zh": "来看看我这个全职家庭煮夫的日常吧。",
+          "en": "Here is a glimpse of everyday life as a full-time househusband.",
+          "treatment": "Paraphrased in Chinese and English"
         },
         {
           "id": "C021-E11",
           "type": "On-screen text",
-          "zh": "OK提前点了食材到家",
-          "en": "Okay, the ingredients I ordered in advance have arrived.",
-          "treatment": "原文＋英文翻译"
+          "zh": "买菜的食材已经提前下单，现在送到家了。",
+          "en": "I arranged for the ingredients to be delivered earlier, and they have just arrived.",
+          "treatment": "Paraphrased in Chinese and English"
         }
       ],
       "follow": [
         {
           "id": "C021-E15",
           "type": "On-screen text",
-          "zh": "以后刷碗啊都是我的事",
-          "en": "From now on, washing the dishes is my responsibility.",
-          "treatment": "原文＋英文翻译"
+          "zh": "接下来洗碗这件事也交给我了。",
+          "en": "I will be taking care of the washing-up from here on.",
+          "treatment": "Paraphrased in Chinese and English"
         }
       ],
       "comments": [],
@@ -281,34 +281,34 @@ window.BTPH_CONTENT = {
         {
           "id": "C024-E06",
           "type": "On-screen text",
-          "zh": "只是“洗”了",
-          "en": "He only washed them.",
-          "treatment": "原文＋英文意译"
+          "zh": "衣服目前只是经过了机洗这一步。",
+          "en": "So far, the clothes have only been through the washing machine.",
+          "treatment": "Paraphrased in Chinese and English"
         },
         {
           "id": "C024-E07",
           "type": "On-screen text",
-          "zh": "一件一件展开晾干；才叫洗好了",
-          "en": "Spread out and hang each item to dry. Only then is the laundry finished.",
-          "treatment": "两段连续视频字幕＋英文翻译"
+          "zh": "还得把衣服逐件整理好、挂起来晾干，整件事才算完成。",
+          "en": "There is still the work of straightening out every item and hanging it up to dry before the laundry is really finished.",
+          "treatment": "Paraphrased in Chinese and English"
         }
       ],
       "follow": [
         {
           "id": "C024-E15",
           "type": "Character dialogue (staged)",
-          "zh": "待会你把桌子收拾一下",
-          "en": "Please tidy up the table in a little while.",
-          "treatment": "女性角色原话＋英文翻译"
+          "zh": "一会儿记得把桌面整理好。",
+          "en": "Could you clear up the table later?",
+          "treatment": "Paraphrased in Chinese and English"
         }
       ],
       "comments": [
         {
           "id": "C024-E18",
           "type": "Reader comment",
-          "zh": "能立马去做已经打败90%的老公",
-          "en": "Being willing to do it immediately already puts him ahead of 90% of husbands.",
-          "treatment": "评论原文＋英文翻译；夸张评价语境"
+          "zh": "肯马上动手做家务，已经比不少丈夫积极了吧！",
+          "en": "Just getting on with the task straight away seems better than what plenty of husbands manage!",
+          "treatment": "Paraphrased in Chinese and English"
         }
       ],
       "comp": "C001",
@@ -346,48 +346,48 @@ window.BTPH_CONTENT = {
         {
           "id": "C001-E01",
           "type": "Creator title",
-          "zh": "来看看我老公做的家务",
-          "en": "Come and see the housework my husband does.",
-          "treatment": "Original wording + English translation"
+          "zh": "给大家看看我丈夫平时是怎么干家务的。",
+          "en": "Here is a little look at how my husband handles chores around the house.",
+          "treatment": "Paraphrased in Chinese and English"
         },
         {
           "id": "C001-E02",
           "type": "On-screen text",
-          "zh": "给你们看看我老公是咋晾衣服的",
-          "en": "Let me show you how my husband hangs up the laundry.",
-          "treatment": "Original wording + English translation"
+          "zh": "拍下他晾衣服的过程，大家来看看这种做法。",
+          "en": "I filmed the way he puts the washing out — take a look at his method.",
+          "treatment": "Paraphrased in Chinese and English"
         }
       ],
       "follow": [
         {
           "id": "C001-E08",
           "type": "Creator reply",
-          "zh": "反正衣服是湿的",
-          "en": "The clothes are wet anyway.",
-          "treatment": "Original reply + English translation"
+          "zh": "衣服反正还没干，碰一下又有什么关系呢。",
+          "en": "They are still wet, so I do not see why that would matter.",
+          "treatment": "Paraphrased in Chinese and English"
         }
       ],
       "comments": [
         {
           "id": "C001-E07",
           "type": "Reader comment",
-          "zh": "我居然觉得很实用！！！就是咬那几个衣架我会流口水，不太行",
-          "en": "I actually think it is very practical! But I would drool while holding those hangers in my mouth, so that part would not work for me.",
-          "treatment": "Comment excerpt + English translation"
+          "zh": "这办法好像挺省事，但我用嘴叼衣架的话，估计会弄得满嘴口水。",
+          "en": "It actually looks convenient, although I would probably end up drooling if I tried holding the hangers in my mouth.",
+          "treatment": "Paraphrased in Chinese and English"
         },
         {
           "id": "C001-E09",
           "type": "Reader comment",
-          "zh": "他每件都甩了一下，比很多男人都优秀。",
-          "en": "He shook out each item. That is better than what many men do.",
-          "treatment": "Comment excerpt + English translation"
+          "zh": "他至少会先把衣服抖一抖再挂，已经比不少男的细心了。",
+          "en": "At least he shakes out each item before hanging it. That is more effort than some men would put in.",
+          "treatment": "Paraphrased in Chinese and English"
         },
         {
           "id": "C001-E10",
           "type": "Reader comment",
-          "zh": "但是这样衣服下摆变得皱皱的了，不过这个好快啊",
-          "en": "But this makes the hems wrinkled. Still, it is very fast.",
-          "treatment": "Comment excerpt (emoji omitted) + English translation"
+          "zh": "动作倒是很快，不过这样晾出来的衣摆可能会有折痕。",
+          "en": "It is certainly quick, though I would worry about creases along the hems.",
+          "treatment": "Paraphrased in Chinese and English"
         }
       ],
       "comp": "C024",
@@ -423,48 +423,48 @@ window.BTPH_CONTENT = {
         {
           "id": "C003-E02",
           "type": "Creator caption",
-          "zh": "一胎宝妈，没人搭把手，边带娃边工作",
-          "en": "I am a first-time mother with no one to lend a hand, caring for my baby while working.",
-          "treatment": "Original excerpt + English translation"
+          "zh": "第一次当妈妈，身边没人能帮忙，我得同时照看孩子和处理工作。",
+          "en": "With my first baby and nobody available to help, I am trying to manage childcare alongside my work.",
+          "treatment": "Paraphrased in Chinese and English"
         },
         {
           "id": "C003-E04",
           "type": "Creator caption",
-          "zh": "碎片时间挤一挤，娃睡我干活，完全能平衡",
-          "en": "By making use of small pockets of time and working while the baby sleeps, I can balance both.",
-          "treatment": "Original excerpt + English translation"
+          "zh": "工作只能趁宝宝睡觉时一点点完成，不过对我来说，这样还是能兼顾两边。",
+          "en": "I get work done in small stretches while the baby sleeps. For me, that makes it possible to manage both.",
+          "treatment": "Paraphrased in Chinese and English"
         },
         {
           "id": "C003-E05",
           "type": "Creator caption",
-          "zh": "没有精致摆拍，就是普通妈妈的日常；接受自己的不完美，带娃和搞事业不用逼自己满分",
-          "en": "No polished staged photos, just an ordinary mother’s daily life. Accept imperfection; you do not have to be perfect at parenting and work.",
-          "treatment": "Two original excerpts combined + English paraphrased translation"
+          "zh": "这就是日常带娃的真实样子，不是特意摆出来的精致画面。我慢慢学着接受，不必把当妈妈和工作都做到十全十美。",
+          "en": "This is my ordinary life with a baby, not a carefully styled picture. I am learning that I do not need to be perfect at motherhood and work at the same time.",
+          "treatment": "Paraphrased in Chinese and English"
         }
       ],
       "follow": [
         {
           "id": "C003-E12",
           "type": "Creator reply",
-          "zh": "还没出月时我也担心自己会带不好，但实际并没有想象中手忙脚乱，月子里面学会一些带宝宝技能和了解宝宝的需求，除了睡眠不够 其他还好",
-          "en": "Before my confinement period ended, I was also worried I would not cope. It was not as chaotic as I imagined. I learnt some baby-care skills and to understand the baby’s needs; apart from too little sleep, things are okay.",
-          "treatment": "Original excerpt + English translation"
+          "zh": "宝宝还没满月时，我也担心自己应付不来。后来学会了一些照护方法，也渐渐摸清宝宝的需要，除了睡眠不足，其他还算顺利。",
+          "en": "Before the baby was a month old, I worried I might struggle. Learning practical care skills and getting to know the baby made things easier; a lack of sleep is still the toughest part.",
+          "treatment": "Paraphrased in Chinese and English"
         }
       ],
       "comments": [
         {
           "id": "C003-E11",
           "type": "Reader comment",
-          "zh": "我马上要一个人带娃了，我好害怕",
-          "en": "I will soon be caring for my baby on my own, and I am really scared.",
-          "treatment": "Original comment excerpt + English translation"
+          "zh": "快要开始独自照顾宝宝了，心里真的特别不安。",
+          "en": "I will be looking after my baby on my own soon, and I feel very nervous about it.",
+          "treatment": "Paraphrased in Chinese and English"
         },
         {
           "id": "C003-E12",
           "type": "Creator reply",
-          "zh": "还没出月时我也担心自己会带不好，但实际并没有想象中手忙脚乱，月子里面学会一些带宝宝技能和了解宝宝的需求，除了睡眠不够 其他还好",
-          "en": "Before my confinement period ended, I was also worried I would not cope. It was not as chaotic as I imagined. I learnt some baby-care skills and to understand the baby’s needs; apart from too little sleep, things are okay.",
-          "treatment": "Original excerpt + English translation"
+          "zh": "宝宝还没满月时，我也担心自己应付不来。后来学会了一些照护方法，也渐渐摸清宝宝的需要，除了睡眠不足，其他还算顺利。",
+          "en": "Before the baby was a month old, I worried I might struggle. Learning practical care skills and getting to know the baby made things easier; a lack of sleep is still the toughest part.",
+          "treatment": "Paraphrased in Chinese and English"
         }
       ],
       "comp": "C015",
@@ -490,194 +490,194 @@ window.BTPH_CONTENT = {
   "archive": [
     {
       "id": "C001",
-      "theme": "责任的不同评价",
-      "role": "对照案例",
-      "insight": "男性晾衣方式与评价冲突",
-      "room": "Balcony / 阳台",
+      "theme": "Different judgments of responsibility",
+      "role": "Comparative case",
+      "insight": "Conflicting reactions to a husband’s way of hanging laundry",
+      "room": "Balcony",
       "featured": true
     },
     {
       "id": "C002",
-      "theme": "照护时间如何分配",
-      "role": "核心／转述",
-      "insight": "母亲一日时间安排和分担建议",
-      "room": "Entrance / 玄关（拟；可按现有网站案例位置调整）",
+      "theme": "How caregiving time is divided",
+      "role": "Key case / retold account",
+      "insight": "A mother’s daily schedule and ideas about sharing care",
+      "room": "Entrance (provisional; can be aligned with current website placement)",
       "featured": false
     },
     {
       "id": "C003",
-      "theme": "育儿与工作交叠",
-      "role": "核心",
-      "insight": "独自带娃与接受不完美",
-      "room": "Bedroom / 卧室（建议关联婴儿床、闹钟或作息）",
+      "theme": "When childcare and paid work overlap",
+      "role": "Key case",
+      "insight": "Caring for a baby alone and accepting imperfection",
+      "room": "Bedroom (suggested: crib, alarm clock or daily routine)",
       "featured": true
     },
     {
       "id": "C004",
-      "theme": "职场、照护与副业",
-      "role": "核心",
-      "insight": "祖辈支持与自我价值",
-      "room": "Living Room / 客厅（建议以儿童玩具或绘本进入；真实拍摄房间未确证）",
+      "theme": "Work, care and a side business",
+      "role": "Key case",
+      "insight": "Support from grandparents and a sense of personal value",
+      "room": "Living room (suggested: toys or picture books; filmed room unconfirmed)",
       "featured": false
     },
     {
       "id": "C005",
-      "theme": "精致饮食与母亲形象",
-      "role": "语境对照",
-      "insight": "精致早餐受到羡慕",
-      "room": "Kitchen-Dining / 厨餐厅",
+      "theme": "Beautiful meals and the image of motherhood",
+      "role": "Contextual contrast",
+      "insight": "Admiration for an elaborate breakfast",
+      "room": "Kitchen & dining",
       "featured": false
     },
     {
       "id": "C006",
-      "theme": "餐食审美与清洁成本",
-      "role": "语境对照",
-      "insight": "“随意”早餐与油污洗碗",
-      "room": "Kitchen-Dining / 厨餐厅",
+      "theme": "Food aesthetics and the work of cleaning",
+      "role": "Contextual contrast",
+      "insight": "A supposedly casual breakfast, greasy dishes and washing-up",
+      "room": "Kitchen & dining",
       "featured": false
     },
     {
       "id": "C007",
-      "theme": "高能量母职叙事",
-      "role": "核心",
-      "insight": "多项家务集中呈现",
-      "room": "Living Room / 客厅（建议关联收纳柜或清洁用品）",
+      "theme": "The high-energy mother narrative",
+      "role": "Key case",
+      "insight": "Many domestic tasks shown together",
+      "room": "Living room (suggested: storage cabinet or cleaning supplies)",
       "featured": false
     },
     {
       "id": "C008",
-      "theme": "娇妻标签与自我定义",
-      "role": "反向对照",
-      "insight": "已婚辣妹与丈夫照料表述",
-      "room": "Kitchen-Dining / 厨餐厅",
+      "theme": "The ideal wife label and self-definition",
+      "role": "Counterexample",
+      "insight": "Married style identity alongside an account of a caring husband",
+      "room": "Kitchen & dining",
       "featured": false
     },
     {
       "id": "C009",
-      "theme": "家庭野餐任务分配",
-      "role": "核心",
-      "insight": "男炒菜、女备餐照护",
-      "room": "Entrance / 入户",
+      "theme": "Dividing the work for a family picnic",
+      "role": "Key case",
+      "insight": "A man cooking while a woman prepares food and provides care",
+      "room": "Entrance",
       "featured": false
     },
     {
       "id": "C010",
-      "theme": "亲子美学",
-      "role": "语境对照",
-      "insight": "理想亲子关系被观看",
-      "room": "Living Room / 客厅",
+      "theme": "The aesthetics of family time",
+      "role": "Contextual contrast",
+      "insight": "A picture of idealised parent–child closeness",
+      "room": "Living room",
       "featured": false
     },
     {
       "id": "C011",
-      "theme": "购物与家庭需求记忆",
-      "role": "核心",
-      "insight": "记住儿子爱喝和爱吃",
-      "room": "Kitchen-Dining / 厨餐厅",
+      "theme": "Shopping and remembering family preferences",
+      "role": "Key case",
+      "insight": "Knowing which drinks and snacks a son likes",
+      "room": "Kitchen & dining",
       "featured": true
     },
     {
       "id": "C012",
-      "theme": "家宴与女性劳动",
-      "role": "核心",
-      "insight": "多女性备菜、男性多用餐",
-      "room": "Kitchen-Dining / 厨餐厅",
+      "theme": "A family feast and women’s work",
+      "role": "Key case",
+      "insight": "Several women preparing food while men are mostly shown eating",
+      "room": "Kitchen & dining",
       "featured": false
     },
     {
       "id": "C013",
-      "theme": "母亲自由与照护意义",
-      "role": "核心／差异",
-      "insight": "自由受限与自我重新理解",
-      "room": "Entrance / 入户",
+      "theme": "Motherhood, freedom and the meaning of care",
+      "role": "Key case / alternative reading",
+      "insight": "Restrictions on freedom and a renewed sense of self",
+      "room": "Entrance",
       "featured": false
     },
     {
       "id": "C014",
-      "theme": "做饭与母职幸福",
-      "role": "核心",
-      "insight": "每周常做孩子喜欢的菜",
-      "room": "Kitchen-Dining / 厨餐厅",
+      "theme": "Cooking and the joy of motherhood",
+      "role": "Key case",
+      "insight": "Regularly making dishes a child enjoys",
+      "room": "Kitchen & dining",
       "featured": false
     },
     {
       "id": "C015",
-      "theme": "明确共同承担家务",
-      "role": "反向对照",
-      "insight": "互相做饭洗碗、父亲辅导",
-      "room": "Living Room / 客厅",
+      "theme": "Housework described as a shared responsibility",
+      "role": "Counterexample",
+      "insight": "Taking turns cooking and washing up; father helps with homework",
+      "room": "Living room",
       "featured": true
     },
     {
       "id": "C016",
-      "theme": "清洁治愈与维护风险",
-      "role": "语境对照",
-      "insight": "清洁剂台面发白",
-      "room": "Research archive only / 无对应主要房间",
+      "theme": "Satisfying cleaning and the risk of damage",
+      "role": "Contextual contrast",
+      "insight": "A countertop turned pale by a cleaning product",
+      "room": "Research archive only (no primary room)",
       "featured": false
     },
     {
       "id": "C017",
-      "theme": "清洁劳动与商品化",
-      "role": "语境对照",
-      "insight": "多房间打扫和用品推荐",
-      "room": "Bedroom / 卧室（建议以床品和除尘工具进入，其他房间作为相关场景）",
+      "theme": "Cleaning work and product culture",
+      "role": "Contextual contrast",
+      "insight": "Cleaning across rooms alongside household product recommendations",
+      "room": "Bedroom (suggested: bedding and dusting tools; other rooms as linked scenes)",
       "featured": false
     },
     {
       "id": "C018",
-      "theme": "清洁愉悦与疲惫",
-      "role": "语境对照",
-      "insight": "既解压又累",
-      "room": "Living Room / 客厅",
+      "theme": "Cleaning as relief and exhaustion",
+      "role": "Contextual contrast",
+      "insight": "Housework described as both relaxing and tiring",
+      "room": "Living room",
       "featured": false
     },
     {
       "id": "C019",
-      "theme": "家庭维护的认知劳动",
-      "role": "核心／管理",
-      "insight": "外包仍需安排",
-      "room": "Living Room / 客厅（左侧鞋柜）",
+      "theme": "The mental work of home maintenance",
+      "role": "Key case / management",
+      "insight": "Arranging outside help still takes coordination",
+      "room": "Living room (left-hand shoe cabinet)",
       "featured": true
     },
     {
       "id": "C020",
-      "theme": "周菜单与双人打卡",
-      "role": "核心／管理",
-      "insight": "菜单先规划、两人打卡",
-      "room": "Kitchen-Dining / 厨餐厅",
+      "theme": "Weekly meal plans and shared check-ins",
+      "role": "Key case / management",
+      "insight": "Planning meals in advance and tracking them together",
+      "room": "Kitchen & dining",
       "featured": false
     },
     {
       "id": "C021",
-      "theme": "男性主动承担",
-      "role": "反向对照",
-      "insight": "订食材、做饭和洗碗",
-      "room": "Kitchen-Dining / 厨餐厅",
+      "theme": "A man taking on domestic responsibility",
+      "role": "Counterexample",
+      "insight": "Ordering ingredients, cooking and doing the dishes",
+      "room": "Kitchen & dining",
       "featured": true
     },
     {
       "id": "C022",
-      "theme": "家务提醒被称小事",
-      "role": "核心／情景表演",
-      "insight": "女性发现提醒与争议",
-      "room": "Research archive only / 无对应主要房间",
+      "theme": "Household reminders dismissed as trivial",
+      "role": "Key case / staged comedy",
+      "insight": "A woman notices unfinished work and reminders become a point of debate",
+      "room": "Research archive only (no primary room)",
       "featured": false
     },
     {
       "id": "C023",
-      "theme": "男性家务与自动化",
-      "role": "反向对照",
-      "insight": "同居双方各自挣钱、机器帮清洁",
-      "room": "Living Room / 客厅",
+      "theme": "Men’s housework and automation",
+      "role": "Counterexample",
+      "insight": "Both partners earn money while machines assist with cleaning",
+      "room": "Living room",
       "featured": false
     },
     {
       "id": "C024",
-      "theme": "完整家务责任与监督",
-      "role": "核心／情景表演",
-      "insight": "男执行步骤、女抱娃指导",
-      "room": "Balcony / 阳台（建议以晾衣架或洗衣篮进入；可关联玄关、厨房和客厅）",
+      "theme": "Completing chores and who supervises",
+      "role": "Key case / staged comedy",
+      "insight": "A man performs steps while a woman holding a child gives directions",
+      "room": "Balcony (suggested: clothes rail or laundry basket; linked to entrance, kitchen and living room)",
       "featured": true
     }
   ]
